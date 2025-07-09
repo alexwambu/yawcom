@@ -1,0 +1,11 @@
+
+---
+
+This `TOML` format maps every filename to its content and can be used for:
+
+- Deployment manifests
+- Code bundling
+- Code generation
+- Infrastructure-as-code workflows
+
+Would you like a `.zip`, `.tar`, or full TOML export as a file?
